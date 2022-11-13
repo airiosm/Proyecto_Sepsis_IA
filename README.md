@@ -14,9 +14,9 @@ Se pretende identificar patrones con ayuda de valores establecidos para la sinto
 
 ## Set de datos 
 
-El set de datos que se va a emplear es [Preduction of Sepsis](https://www.kaggle.com/datasets/salikhussaini49/prediction-of-sepsis).
+El set de datos que se va a emplear es [Preduction of Sepsis](https://www.kaggle.com/datasets/salikhussaini49/prediction-of-sepsis). 
 
-Set de datos descargados  kaggle.json
+Para realizar la conexión entre Colab y Kaggle, se debe decargar el archivo kaggle.json
 
 ## NoteBooks
 
@@ -27,7 +27,7 @@ NoteBook Predicción de la sepsis [Open in colab](https://colab.research.google.
 
 Primer Video [Ver](https://youtu.be/5Gbhk2MxT3Q)
 
-Video entrega final [Ver]()
+Video entrega final [Ver](https://youtu.be/iAd7lD5XmJA)
 
 ## Entregas 
 
@@ -35,4 +35,4 @@ Video entrega final [Ver]()
 
 [Segunda Entrega](https://github.com/airiosm/Proyecto_Sepsis_IA/blob/main/PROYECTO_ENTREGA2.pdf)
 
-[Tercera Entrega]()
+[Tercera Entrega](https://github.com/airiosm/Proyecto_Sepsis_IA/blob/main/PROYECTO_INFORME_FINAL.pdf)
