@@ -14,7 +14,8 @@ Se pretende identificar patrones con ayuda de valores establecidos para la sinto
 
 ## Set de datos 
 
-El set de datos que se va a emplear es [Preduction of Sepsis](https://www.kaggle.com/datasets/salikhussaini49/prediction-of-sepsis). 
+El set de datos que se va a emplear es [Preduction of Sepsis](https://www.kaggle.com/datasets/salikhussaini49/prediction-of-sepsis).
+
 Set de datos descargados  kaggle.json
 
 ## NoteBooks
